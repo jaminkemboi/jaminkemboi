@@ -7,7 +7,7 @@
 **About Jamin: 😃**
 <p align="center">
   
-- 🌱 I’m currently learning <code>Python & Java</code>
+- 🌱 I’m currently learning <code>Python & Data Science</code>
 - 💬 Ask me about anything!
 - 📫 How to reach me: [jaminkiplagatkemboi@gmail.com]
 - 😄 Pronouns: He/Him/His
