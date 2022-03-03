@@ -7,9 +7,9 @@
 **About Jamin: 😃**
 <p align="center">
   
-- 🌱 I’m currently learning <code>Python & Data Science</code>
+- 🌱 I’m currently learning <code>Python, Pytorch & JavaScript</code>
 - 💬 Ask me about anything!
-- 📫 How to reach me: [jaminkiplagatkemboi@gmail.com]
+- 📫 How to reach me: [jaminkiplagatkemboi@gmail.com], [jaminkiplagatkemboi@outlook.com]
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: selected for the Google Africa Developer Scholarship (GADS)!
 
