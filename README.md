@@ -7,11 +7,10 @@
 **About Jamin: 😃**
 <p align="center">
   
-- 🌱 I’m currently learning <code>Python, Pytorch & JavaScript</code>
+- 🌱 I’m currently learning <code>Web 3.0 developer, solidity</code>
 - 💬 Ask me about anything!
 - 📫 How to reach me: [jaminkiplagatkemboi@gmail.com], [jaminkiplagatkemboi@outlook.com]
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: selected for the Google Africa Developer Scholarship (GADS)!
 
 **My GitHub Stats: 📈**
 
